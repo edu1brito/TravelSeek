@@ -1,58 +1,69 @@
-# ✈️ TravelSeek
+✈️ TravelSeek
 
-TravelSeek is a front-end web project developed as a final challenge for the **Front-End Web Development course: JavaScript Programming Fundamentals (IBM)**.
+TravelSeek is a front-end web project developed as a final challenge for the Front-End Web Development course: JavaScript Programming Fundamentals (IBM).
 
-## 📖 About the project
+📖 About the project
 
 TravelSeek is a static website that simulates a travel and tourism platform, allowing users to explore destinations, view information and navigate through different pages.
 
-## 🛠 Technologies
+🛠 Technologies
 
-- HTML5
-- CSS3
-- JavaScript
+HTML5
 
-## 📁 Project structure
+CSS3
+
+JavaScript
+
+📸 Preview
+
+Here you can see the main page of the project:
+
+Put a screenshot of the main page inside the "assets" folder and name it preview.png
+
+📁 Project structure
 
 TravelSeek/
-  assets/
-  index.html
-  booking.html
-  contact.html
-  info.html
-  locations.html
-  README.md
+assets/
+index.html
+booking.html
+contact.html
+info.html
+locations.html
+README.md
 
-## 🚀 How to run the project
+🚀 How to run the project
 
-1. Clone the repository
+Clone the repository
 
-git clone https://github.com/your-username/travelseek.git
+git clone https://github.com/edu1brito/travelseek.git
 
-2. Open the project folder
+Open the project folder
 
 cd travelseek
 
-3. Open the project in your browser
+Open in browser
 
-Just open the file:
+Open the file:
 
 index.html
 
-or use the VS Code Live Server extension.
+or use VS Code Live Server.
 
-## ✅ Features
+✅ Features
 
-- Multi-page navigation
-- Travel destination pages
-- Booking page UI
-- Contact page UI
+Multi-page navigation
 
-## 👨‍💻 Author
+Travel destination pages
 
-Eduardo de Brito  
+Booking page UI
+
+Contact page UI
+
+👨‍💻 Author
+
+Eduardo de Brito
 GitHub: https://github.com/edu1brito
 
-## 📄 License
+📄 License
 
 MIT License
