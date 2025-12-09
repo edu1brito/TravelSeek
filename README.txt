@@ -51,7 +51,7 @@ or use the VS Code Live Server extension.
 ## 👨‍💻 Author
 
 Eduardo de Brito  
-GitHub: https://github.com/edu1brito
+GitHub: https://github.com/your-username
 
 ## 📄 License
 
