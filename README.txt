@@ -1,69 +1,54 @@
-✈️ TravelSeek
+# ✈️ TravelSeek
 
-TravelSeek is a front-end web project developed as a final challenge for the Front-End Web Development course: JavaScript Programming Fundamentals (IBM).
+Travel Seek was developed as a final project challenge to complete the **Front-End Web Development course: JavaScript Programming Fundamentals** offered by IBM.
 
-📖 About the project
+## 📋 Sobre o Projeto
 
-TravelSeek is a static website that simulates a travel and tourism platform, allowing users to explore destinations, view information and navigate through different pages.
+TravelSeek é uma aplicação web para busca e reserva de viagens, desenvolvida utilizando HTML, CSS e JavaScript como parte do curso de fundamentos de programação JavaScript da IBM.
 
-🛠 Technologies
+## 🖼️ Preview
 
-HTML5
+![Preview do TravelSeek](./assets/preview.png)
 
-CSS3
+## 🚀 Funcionalidades
 
-JavaScript
+- Página inicial com informações sobre o serviço
+- Sistema de reservas
+- Página de contato
+- Informações sobre destinos e localizações
 
-📸 Preview
-
-Here you can see the main page of the project:
-
-Put a screenshot of the main page inside the "assets" folder and name it preview.png
-
-📁 Project structure
-
+## 📁 Estrutura do Projeto
+```
 TravelSeek/
-assets/
-index.html
-booking.html
-contact.html
-info.html
-locations.html
-README.md
+├── assets/
+│   └── preview.png
+├── index.html
+├── booking.html
+├── contact.html
+├── info.html
+├── locations.html
+└── README.md
+```
 
-🚀 How to run the project
+## 🛠️ Tecnologias Utilizadas
 
-Clone the repository
+- HTML5
+- CSS3
+- JavaScript
 
-git clone https://github.com/edu1brito/travelseek.git
+## 💻 Como Executar
 
-Open the project folder
+1. Clone o repositório:
+```bash
+git clone https://github.com/edu1brito/TravelSeek.git
+```
 
-cd travelseek
+2. Abra o arquivo `index.html` no seu navegador
 
-Open in browser
+## 👤 Autor
 
-Open the file:
+**edu1brito**
 
-index.html
+## 📄 Licença
 
-or use VS Code Live Server.
-
-✅ Features
-
-Multi-page navigation
-
-Travel destination pages
-
-Booking page UI
-
-Contact page UI
-
-👨‍💻 Author
-
-Eduardo de Brito
-GitHub: https://github.com/edu1brito
-
-📄 License
-
-MIT License
+Este projeto foi desenvolvido para fins educacionais como parte do curso da IBM.
